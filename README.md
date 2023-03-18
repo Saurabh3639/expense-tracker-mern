@@ -1,30 +1,30 @@
 # Expense Tracker React App
 
-> npm install
-> cd client
-> npm install
-> cd ..
+> npm install   
+> cd client   
+> npm install   
+> cd ..   
 
 ### Run front and backend both
-> npm run dev
+> npm run dev   
 
 ### Run Backend only
-> npm run server
+> npm run server   
 
 ### Run Frontend only
-> npm run client
+> npm run client   
 
 ### Build client
-> cd client
-> npm run build
+> cd client   
+> npm run build   
 
 ### Run Prod
-> cd ..
-> npm start
+> cd ..  
+> npm start   
 
 ### Screenshots
-> Desktop View
+> Desktop View  
 ![Desktop View Screenshot](https://i.postimg.cc/zvK4B42L/desktop.png)
 
-> Mobile View
+> Mobile View   
 ![Mobile View Screenshot](https://i.postimg.cc/hvvfRb23/mobile.png)
