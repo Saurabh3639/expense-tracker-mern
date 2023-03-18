@@ -28,3 +28,7 @@
 
 > Mobile View   
 ![Mobile View Screenshot](https://i.postimg.cc/hvvfRb23/mobile.png)
+
+
+[![mobile.png](https://i.postimg.cc/hvvfRb23/mobile.png)](https://postimg.cc/V0yYjMQj)
+
