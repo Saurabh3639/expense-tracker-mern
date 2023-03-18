@@ -1,22 +1,23 @@
 # Expense Tracker React App
-npm install
-cd client 
-npm install
-cd ..
 
-# Run front and backend both
-npm run dev
+> npm install
+> cd client
+> npm install
+> cd ..
 
-# Run Backend only
-npm run server
+### Run front and backend both
+> npm run dev
 
-# Run Frontend only
-npm run client
+### Run Backend only
+> npm run server
 
-# Build client
-cd client
-npm run build
+### Run Frontend only
+> npm run client
 
-# Run Prod
-cd ..
-npm start
+### Build client
+> cd client
+> npm run build
+
+### Run Prod
+> cd ..
+> npm start
