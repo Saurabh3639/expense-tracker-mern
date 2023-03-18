@@ -21,3 +21,9 @@
 ### Run Prod
 > cd ..
 > npm start
+
+### Screenshots
+
+![Desktop View](https://i.postimg.cc/zvK4B42L/desktop.png)
+
+![Mobile View](https://i.postimg.cc/hvvfRb23/mobile.png)
